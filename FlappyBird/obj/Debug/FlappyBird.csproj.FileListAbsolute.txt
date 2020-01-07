@@ -1,0 +1,12 @@
+E:\Users\ASUS\source\repos\Fitting\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+E:\Users\ASUS\source\repos\Fitting\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+E:\Users\ASUS\source\repos\Fitting\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+E:\Users\ASUS\source\repos\Fitting\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+E:\Users\ASUS\source\repos\Fitting\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Obstacles.resources
+E:\Users\ASUS\source\repos\Fitting\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+E:\Users\ASUS\source\repos\Fitting\FlappyBird\FlappyBird\obj\Debug\FlappyBird.RankForm.resources
+E:\Users\ASUS\source\repos\Fitting\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Tips.resources
+E:\Users\ASUS\source\repos\Fitting\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+E:\Users\ASUS\source\repos\Fitting\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+E:\Users\ASUS\source\repos\Fitting\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+E:\Users\ASUS\source\repos\Fitting\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojAssemblyReference.cache
